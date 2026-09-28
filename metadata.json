@@ -1,0 +1,6 @@
+{
+  "name": "Noor-e-Nikah - Islamic Luxury Wedding Invitation & Card Maker",
+  "description": "Create, customize, and share elegant Islamic Muslim wedding invitations with interactive envelope opening, heart-shaped scratch-to-reveal date card, live ceremony countdown, music, Haldi & Mehendi functions, and WhatsApp/PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
